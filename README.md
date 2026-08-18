@@ -1,5 +1,6 @@
-# Project-4
- HTML version of Recipe Markdown
+# HTML version of Recipe Markdown
+
+Note: This chronicles a project i wrote when i was 16 for a School Assignment.
  
 # Markdown-Recipe
  If i did get into baking it would be baking delicious cookies.
